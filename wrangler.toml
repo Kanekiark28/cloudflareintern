@@ -1,0 +1,4 @@
+name = "cloudflareintern"
+type = "webpack"
+account_id = "db7b3c024dfc487f0f8a692344326e8a"
+workers_dev = true
